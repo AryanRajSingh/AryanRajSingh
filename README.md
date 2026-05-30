@@ -16,7 +16,7 @@ Email Me 👉 ✉️ **aryanraj844101@gmail.com** For Collaboration/Project or A
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** aryanraj844101@gmail.com
 - 😄 **Pronouns:** Aryan Raj
-- ⚡ **Fun fact:** Science is Everthing
+- ⚡ **Fun fact:** If technology exists then science exists and if science exists then God exists, hence if God exists then technology exists. 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-raj-6225a0195/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanraj844101@gmail.com) 
 # 💻 Tech Stack:
