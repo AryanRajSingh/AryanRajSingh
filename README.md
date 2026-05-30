@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Welcome+To+My+GitHub+Page;Hi+👋+I'm+Aryan+Raj;AI%2FML+Engineer;DevOps+Engineer;Software+Engineer;MERN+Stack+Developer;Agentic+AI+Researcher;3+Years+Experience" />
 </p>
@@ -26,13 +27,22 @@ Email Me 👉 ✉️ **aryanraj844101@gmail.com** For Collaboration/Project or A
 ![](https://streak-stats.demolab.com/?user=AryanRajSingh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AryanRajSingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 📊 Profile Summary
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AryanRajSingh&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AryanRajSingh&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AryanRajSingh&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AryanRajSingh&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AryanRajSingh&theme=github_dark)
 <!-- Snake Game Repo View -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
@@ -40,5 +50,7 @@ Email Me 👉 ✉️ **aryanraj844101@gmail.com** For Collaboration/Project or A
 
 ---
 [![](https://komarev.com/ghpvc/?username=AryanRajSingh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
