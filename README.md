@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmoyaHVpYW54MjR4MzJ4NHplank4N2dsNjhtZDVwNjJkNzN1dW82OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="400">
 </p>
 
 Email Me 👉 ✉️ **aryanraj844101@gmail.com** For Collaboration/Project or Anything Else. 😊😊
