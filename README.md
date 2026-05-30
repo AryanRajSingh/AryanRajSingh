@@ -1,5 +1,6 @@
-# 💫 Hi 👋, I'm Aryan Raj
-**AI/ML Engineer || DevOps Engineer || Software Engineer || MERN Stack Developer*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Welcome+To+My+GitHub+Page;Hi+👋+I'm+Aryan+Raj;AI%2FML+Engineer;DevOps+Engineer;Software+Engineer;MERN+Stack+Developer;Agentic+AI+Researcher;3+Years+Experience" />
+</p>
 
 Email Me 👉 ✉️ **aryanraj844101@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
